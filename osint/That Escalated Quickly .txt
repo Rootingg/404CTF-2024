@@ -1,0 +1,10 @@
+1 : https://alpinemag.fr/patrick-edlinger-legende-escalade/
+2 : faut trouver une ascension qu'il a fait, qui est proche d'un lieu touristique naturel homonyme d'un autre lieu touristique
+le mot zammechat donne des résultats qui sortent avec le mot "Orange", ça fait penser à une de ses ascensions (sur la page wiki)
+Orange Mécanique
+Cimaï
+Mont_caume
+3 : le lac de come , milan
+4 : milan à sofia , la moitié = croatie
+
+404CTF{patrick-edlinger_mont-caume_milan_croatie}

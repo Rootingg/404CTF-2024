@@ -1,0 +1,28 @@
+ETAPE 1 :
+
+Dans le code source on trouve : 
+	        window.location.href = '/donnez-moi-mon-ticket-pitie';
+
+ETAPE 2 :
+
+ensuite on copie le code javascript dans la console js
+il faut remplir window.validable avec billet.id
+
+    var bouton = document.querySelector('.valider-billet');
+    var billet = document.querySelector('.billet');
+    window.validable = [billet.id];
+    bouton.addEventListener('click', function() {
+        if (window.validable.includes(billet.id)) {
+            fetch('/set_cookie', {method: 'POST'}).then(function() {
+                window.location.href = "/devant-le-match";
+            });
+        } else {
+            alert('Billet non validé');
+        }
+    });
+
+on appuis sur le bouton valider
+
+ETAPE 3 :
+
+Lire le cookie : 404CTF{gluten-sucre-au-sucre}

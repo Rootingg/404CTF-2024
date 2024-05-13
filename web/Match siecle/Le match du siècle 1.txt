@@ -1,0 +1,4 @@
+ETAPE 1 :
+
+modifier la valeur du cookie balance
+pour avoir suffisament d'argent pour ensuite télécharger un ticket et obtenir le flag.

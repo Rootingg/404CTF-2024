@@ -1,0 +1,3 @@
+sur wirehsark
+cache dans une data faire une recherce 404CTF{
+dans les détais du paquet

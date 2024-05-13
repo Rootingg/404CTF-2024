@@ -1,0 +1,38 @@
+404CTF{C|6?#^?^[?C?&?^[?C?^#C?^??^[?/?#?!^?&R}
+
+6^ :|&[ 𝚑6%&𝚑éT^Ω !╩[ C▙^#л⃥&#?жл⃥^ 6^ ༽^ [&𝚑[ !╩[ Ψ⃝^[[é ^Tл⃥^ :╩𝚑[ T#è[ Ψ𝚑^6жл⃝^ /ஏ#╩!^╩& !⃝╩Cé [|&[ C^TT^ !|&T#^ ༽я╩ !^#༽𝚑[ /ஏя╩༽|#T𝚑# ༽╩ C▙&T^в Cя^[T /ஏя╩𝚑⃝⃝^&#[ éT#╩6Ξ^ à %&^⃝ !|𝚑6T &6 [𝚑༽!⃝^ /ஏ#╩!^╩& !^&T F╩𝚑#^ !╩[[^# &6^ [𝚑T&╩T𝚑|6 /ஏ^ T#è[ /ஏ╩6Ξ^#^&[^ à !╩#F╩𝚑T^༽^6T Ψé6𝚑6^в Ξ#╩C^ à C^ /ஏ#╩!^╩&ж T|&T ༽|6 C|#![ :╩ Ψ𝚑^6ж ╩⃝|#[ %&я╩:╩6T ༽|6 C|#![ 6я╩⃝⃝╩𝚑T !╩[ Ψ𝚑^6вл⃥^ :|&[ #^C|༽༽╩6/ஏ^ /ஏ|6C :𝚑:^༽^6T /ஏ^ :|&[ !#|C&#^# /ஏ^[ !╩66^╩&E /ஏ╩6[л⃝^ C╩[ |& :|&[ F^#𝚑^Ω /ஏ^л⃝╩ Ξ?༽6╩[T𝚑%&^ ^T %&^ :|&[ T|༽Ψ^#𝚑^Ω [&#л⃝╩ T^T^ ! !╩# C|6T#^ж Cя^[T :#╩𝚑༽^6T &6 éT#╩6Ξ^ /ஏ#╩!^╩& : 404CTF{C|6T#^ц⃝^[цC▙&T^[цC▙^#C▙^Ωц⃝^[ц/ஏ#╩!^╩&E}в ༽╩𝚑[ /ஏ&C|&!ж !|&##╩𝚑[-⃥^ #^C|༽༽^6C^# ༽|6 é!#^&:^ [я𝚑⃝ :|&[ !⃝╩îT ?
+
+л --> espace
+[$ --> C
+λ --> T
+Σ --> F
+^ --> E
+6 --> N
+& --> U
+| --> U
+𝚑 --> I
+Ψ = v ?
+[ --> S
+╩ --> A
+: --> V
+% --> Q
+Ω --> Z
+! --> P
+# --> R 
+
+NE VOUS INQUIéTEZ PAS C▙E#л⃥U#?жл⃥E NE ༽E SUIS PAS Ψ⃝ESSé ETл⃥E VAIS T#èS ΨIENжл⃝E /ஏ#APEAU !⃝ACé SOUS CETTE POUT#E ༽яA PE#༽IS /ஏяA༽O#TI# ༽A C▙UTEв CяEST /ஏяA𝚑⃝⃝EU#S éT#ANΞE à QU^⃝ POINT UN SI༽!⃝E /ஏ#APEAU PEUT FAI#E PASSE# UNE SITUATION /ஏE T#èS /ஏANΞE#EUSE à PA#FAITE༽ENT ΨéNINEв Ξ#ACE à CE /ஏ#APEAUж TOUT ༽ON CO#PS VA ΨIENж ╩⃝O#S QUяAVANT ༽ON CO#PS Nя╩⃝⃝AIT PAS ΨIENвл⃥E VOUS #ECO༽༽AN/ஏE /ஏONC VIVE༽ENT /ஏE VOUS P#OCU#E# /ஏES PANNEAUE /ஏANSл⃝E CAS OU VOUS FE#IEZ /ஏEл⃝A Ξ?༽NASTIQUE ET QUE VOUS TO༽ΨE#IEZ SU#л⃝A TETE P PA# CONT#Eж CяEST V#AI༽ENT UN éT#ANΞE /ஏ#APEAU V 404CTF{CONT#Eц⃝ESцC▙UTESцC▙E#C▙EZц⃝ESц/ஏ#APEAUE}в ༽AIS /ஏUCOUPж POU##AIS-⃥E #ECO༽༽ENCE# ༽ON éP#EUVE Sя𝚑⃝ VOUS !⃝AîT ?
+
+
+
+on commence a en déduire : 
+
+404CTF{CONTREц⃝ESцC▙UTESцC▙ERC▙EZц⃝ESц/ஏRAPEAUE}
+
+
+donc on imagine :
+
+404CTF{CONTRE_DESцC▙UTESцC▙ERC▙EZц⃝ESц/ஏRAPEAUE}
+
+et finalement : 
+
+404CTF{CONTRE_LES_CHUTES_CHERCHEZ_LES_DRAPEAUX}

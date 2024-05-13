@@ -1,0 +1,4 @@
+On décompile le fichier apk avec apktool
+on trouve des chaines de caractère et on assemble le flag
+
+404CTF{Br4v0_tU_as_tr0uv3_m0N__m3S5ag3!}
